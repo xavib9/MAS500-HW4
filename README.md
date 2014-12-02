@@ -1,3 +1,11 @@
+Assigment 4
+===========================================
+1. Run Mongodb
+2. Run gettoknow.py
+3. Visit `localhost:5000` with a web browser
+
+Information from Spain, Italy, Germany and France is stored in the Mongodb.
+
 Flask Example - Get To Know : Global Voices
 ===========================================
 
